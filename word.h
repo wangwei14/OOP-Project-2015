@@ -7,7 +7,7 @@ class word
 {
 private:
 	string wordName; // word name
-	string wordPron; // word pronounciation
+	string wordPron; // word pronunciation
 	// make these three a struct ? 
 	string wordPS; // word part of speech
 	string trans; // word translation
